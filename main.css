@@ -154,4 +154,8 @@ footer a {
   main {
     flex: 1 100vh;
   }
+
+  .container {
+    padding: 16px;
+  }
 }
